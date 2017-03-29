@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".host.HostingDetailsActivity">
+    <include
+        android:id="@+id/toolbar_hdetails"
+        layout="@layout/toolbar"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Queue Name"
+        android:textAlignment="center"
+        android:layout_marginTop="30dp"
+        android:id="@+id/et_name" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter Queue Description"
+        android:textAlignment="center"
+        android:id="@+id/et_desc" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Set Max Queue Limit"
+        android:ems="10"
+        android:textAlignment="center"
+        android:id="@+id/et_max"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Host Queue"
+        android:id="@+id/b_hostQueue"
+        android:padding="20dp"
+        android:layout_gravity="center_horizontal" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/logo"
+        android:id="@+id/imageView2"
+        android:padding="100dp" />
+
+
+</LinearLayout>
