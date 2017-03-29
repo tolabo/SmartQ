@@ -1,8 +1,9 @@
 # SmartQ
 
-<img src="https://github.com/vaibhavkollipara/SmartQ/blob/master/screenshots/homescreen.png?raw=true" alt="Homescreen" style="width: 20px;"/>
 
-![ScreenShot](https://github.com/vaibhavkollipara/SmartQ/blob/master/screenshots/HostUI.png?raw=true)
+![ScreenShot](https://github.com/vaibhavkollipara/SmartQ/blob/master/screenshots/homescreen.png?raw=true =100)
+
+![ScreenShot](https://github.com/vaibhavkollipara/SmartQ/blob/master/screenshots/HostUI.png?raw=true =100)
 
 ![ScreenShot](https://github.com/vaibhavkollipara/SmartQ/blob/master/screenshots/QueueShareUI.png?raw=true)
 
