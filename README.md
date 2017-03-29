@@ -14,5 +14,5 @@ Requirements
   <li>Android SDK version : 24</li>
   <li>Minimum Android version required : Android Lolipop (version 5)</li>
   <li>Backend : Firebase</li>
-  <li>Hardware Required : Android mobile with a camera and bluetooth</li>
+  <li>Hardware : Android mobile with a camera and bluetooth</li>
 <ul>
