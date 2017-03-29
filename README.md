@@ -1,5 +1,6 @@
 # SmartQ
 
+<img src="https://github.com/vaibhavkollipara/SmartQ/blob/master/screenshots/homescreen.png?raw=true" width="100"/>
 
 ![ScreenShot](https://github.com/vaibhavkollipara/SmartQ/blob/master/screenshots/homescreen.png?raw=true =100x)
 
