@@ -1,6 +1,6 @@
 # SmartQ
 
-![ScreenShot](https://github.com/vaibhavkollipara/SmartQ/blob/master/screenshots/homescreen.png?raw=true)
+<img src="https://github.com/vaibhavkollipara/SmartQ/blob/master/screenshots/homescreen.png?raw=true" alt="Homescreen" style="width: 200px;"/>
 
 ![ScreenShot](https://github.com/vaibhavkollipara/SmartQ/blob/master/screenshots/HostUI.png?raw=true)
 
