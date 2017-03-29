@@ -5,7 +5,7 @@
 
 <h3>Android app to virtualize queue system.</h3>
 
-The users of this app will be able to host a smart queue system using a simple smart phone.Every user of this app can either host a new queue or can request a token number to be part of the queue.This app can be implemented in many situations where people stand in long queues to get their turn.
+The users of this app will be able to host a smart queue system using a simple android smart phone.Every user of this app can either host a new queue or can request a token number via scanning a QR code or discovering nearby queues using bluetooth to join the queue.This app can be implemented in many situations where people stand in long queues to get their turn.
 
 Requirements
 <ul>
@@ -14,4 +14,5 @@ Requirements
   <li>Android SDK version : 24</li>
   <li>Minimum Android version required : Android Lolipop (version 5)</li>
   <li>Backend : Firebase</li>
+  <li>Hardware Required : Android mobile with a camera and bluetooth</li>
 <ul>
